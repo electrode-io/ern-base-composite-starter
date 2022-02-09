@@ -1,4 +1,4 @@
-### Electrode Native Base Composite Starter
+# ern-base-composite-starter
 
 Starter sample Base Composite project.
 
