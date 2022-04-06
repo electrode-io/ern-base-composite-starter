@@ -1,5 +1,8 @@
 {
   "name": "ern-composite",
   "version": "0.0.1",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "0.66.4"
+  }
 }
